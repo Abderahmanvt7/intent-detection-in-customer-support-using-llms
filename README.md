@@ -1,4 +1,4 @@
-1[Banner](./logo.png)
+![Banner](./logo.png)
 
 # Intent Detection in Customer Support Requests using LLMs
 
@@ -13,8 +13,10 @@ A machine learning application for intent detection in customer support requests
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
+- [Limitations and Future Work](#limitations-and-future-work)
 - [Contributing](#contributing)
 - [License](#license)
+- [Support](#support)
 
 ## Overview
 
@@ -146,4 +148,4 @@ This project is part of an ongoing effort to make technology more accessible and
 
 ---
 
-Made with ❤️ by [Abderahman HAMILI](https://github.com/Abderahmanvt7)
+Made with ❤️ by [Abderahman HAMILI](https://abderahmanhamili.vercel.app/)
