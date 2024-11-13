@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Flask cache files
+instance/
+*.log
+
+# PyTorch model checkpoints
+*.pth
+models/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python packaging files
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# IDE specific files (e.g., VSCode)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
